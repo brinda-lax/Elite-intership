@@ -1,0 +1,53 @@
+ Section 1: Ride Trends & Revenue Overview
+Purpose: Understand ride volume, fare trends, and revenue patterns.
+
+Questions:
+
+What is the monthly trend of total rides over the past year?
+
+What is the average fare amount over time in jan 2023?
+
+How many rides were completed vs. canceled (if cancellation data is available)?
+
+What is the total revenue generated from each pickup location (PULocationID)?
+
+What is the cancellation rate per location? (If cancellation can be inferred from trip_distance == 0 or missing dropoff)
+
+Section2: Driver Performance
+Purpose: Assess how different drivers/vendors perform.
+
+Questions:
+
+What is the average trip duration by VendorID?
+
+How many trips are handled per VendorID?
+
+Which VendorIDs have the highest delays (if expected time is estimable)?
+
+What is the average trip duration across pickup locations?
+
+
+Section 3: Passenger Insights & Patterns
+Purpose: Understand passenger habits and value.
+
+Questions:
+
+What is the average number of passengers per trip?
+
+Which locations have the highest number of unique trips (passenger demand clusters)?
+
+What is the average total fare per passenger count group?
+
+What times of day have the highest ride frequency?
+
+What are the most common days/times for travel?
+
+Shall we start with Page 1: Ride Trends & Revenue Overview? I can help you write or review code for:
+
+Monthly ride counts
+
+Monthly average fares
+
+Revenue per pickup area
+
+Let me know which one you'd like to begin with.
